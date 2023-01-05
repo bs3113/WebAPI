@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ylC9TgeKx66XMIzTK/fK08F5wauUOSDnJCTUomW7ejQ=",
+  "Source": "BeaconHillOA.API",
+  "BasePath": "_content/BeaconHillOA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

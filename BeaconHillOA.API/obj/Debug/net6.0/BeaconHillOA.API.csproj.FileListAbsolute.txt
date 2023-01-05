@@ -1,0 +1,67 @@
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/appsettings.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.API
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.API.deps.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.API.runtimeconfig.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.API.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.API.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.Core.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.Infrastructure.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.Infrastructure.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/bin/Debug/net6.0/BeaconHillOA.Core.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.csproj.AssemblyReference.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.AssemblyInfoInputs.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.AssemblyInfo.cs
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.csproj.CoreCompileInputs.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/scopedcss/bundle/BeaconHillOA.API.styles.css
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.csproj.CopyComplete
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/refint/BeaconHillOA.API.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/BeaconHillOA.API.genruntimeconfig.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.API/obj/Debug/net6.0/ref/BeaconHillOA.API.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.API.exe
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.API.deps.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.API.runtimeconfig.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.API.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.API.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.Core.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.Infrastructure.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.Infrastructure.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\bin\Debug\net6.0\BeaconHillOA.Core.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.csproj.AssemblyReference.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.AssemblyInfoInputs.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.AssemblyInfo.cs
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.csproj.CoreCompileInputs.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets\msbuild.BeaconHillOA.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BeaconHillOA.API.props
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeaconHillOA.API.props
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeaconHillOA.API.props
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\scopedcss\bundle\BeaconHillOA.API.styles.css
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.csproj.CopyComplete
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\refint\BeaconHillOA.API.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\BeaconHillOA.API.genruntimeconfig.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.API\obj\Debug\net6.0\ref\BeaconHillOA.API.dll

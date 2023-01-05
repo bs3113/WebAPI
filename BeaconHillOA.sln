@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconHillOA.API", "BeaconHillOA.API\BeaconHillOA.API.csproj", "{03220975-DC1A-4D9C-8597-ADE0AB69A911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconHillOA.Core", "BeaconHillOA.Core\BeaconHillOA.Core.csproj", "{914662B7-C9AC-4976-B426-6DE8FA8DB76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconHillOA.Infrastructure", "BeaconHillOA.Infrastructure\BeaconHillOA.Infrastructure.csproj", "{818A2C30-ADBF-4F6A-9F7A-07F57C57EDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconHillOA.UnitTests", "BeaconHillOA.UnitTests\BeaconHillOA.UnitTests.csproj", "{F5B06F60-9897-4946-B7DD-F263C14CA71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03220975-DC1A-4D9C-8597-ADE0AB69A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03220975-DC1A-4D9C-8597-ADE0AB69A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03220975-DC1A-4D9C-8597-ADE0AB69A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03220975-DC1A-4D9C-8597-ADE0AB69A911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914662B7-C9AC-4976-B426-6DE8FA8DB76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914662B7-C9AC-4976-B426-6DE8FA8DB76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914662B7-C9AC-4976-B426-6DE8FA8DB76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914662B7-C9AC-4976-B426-6DE8FA8DB76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818A2C30-ADBF-4F6A-9F7A-07F57C57EDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818A2C30-ADBF-4F6A-9F7A-07F57C57EDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818A2C30-ADBF-4F6A-9F7A-07F57C57EDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818A2C30-ADBF-4F6A-9F7A-07F57C57EDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B06F60-9897-4946-B7DD-F263C14CA71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B06F60-9897-4946-B7DD-F263C14CA71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B06F60-9897-4946-B7DD-F263C14CA71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B06F60-9897-4946-B7DD-F263C14CA71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

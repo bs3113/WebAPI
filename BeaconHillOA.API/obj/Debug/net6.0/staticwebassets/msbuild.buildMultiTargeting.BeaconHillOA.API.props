@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BeaconHillOA.API.props" />
+</Project>

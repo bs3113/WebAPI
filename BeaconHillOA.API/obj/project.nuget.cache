@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2CbAEXW+VuvKuGW951XkOfjtDdu2f9F8RSQJaWL0ASLT2sPLJj7FYH3ajlx5tFSut90GQgvD8VF4AyO6zVpPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.API\\BeaconHillOA.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

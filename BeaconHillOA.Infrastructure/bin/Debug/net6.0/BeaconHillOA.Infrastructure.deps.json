@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BeaconHillOA.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BeaconHillOA.Core": "1.0.0"
+        },
+        "runtime": {
+          "BeaconHillOA.Infrastructure.dll": {}
+        }
+      },
+      "BeaconHillOA.Core/1.0.0": {
+        "runtime": {
+          "BeaconHillOA.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeaconHillOA.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeaconHillOA.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

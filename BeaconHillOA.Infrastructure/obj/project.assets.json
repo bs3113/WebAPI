@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BeaconHillOA.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BeaconHillOA.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeaconHillOA.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeaconHillOA.Core/1.0.0": {
+      "type": "project",
+      "path": "../BeaconHillOA.Core/BeaconHillOA.Core.csproj",
+      "msbuildProject": "../BeaconHillOA.Core/BeaconHillOA.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BeaconHillOA.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Boyuan Sun\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.Infrastructure\\BeaconHillOA.Infrastructure.csproj",
+      "projectName": "BeaconHillOA.Infrastructure",
+      "projectPath": "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.Infrastructure\\BeaconHillOA.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Boyuan Sun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Boyuan Sun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.Core\\BeaconHillOA.Core.csproj": {
+              "projectPath": "C:\\Users\\Boyuan Sun\\Downloads\\Antra\\Solutions\\BeaconHillOA\\BeaconHillOA\\BeaconHillOA.Core\\BeaconHillOA.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

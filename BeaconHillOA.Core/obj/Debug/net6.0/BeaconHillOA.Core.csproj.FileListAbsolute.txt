@@ -1,0 +1,24 @@
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/bin/Debug/net6.0/BeaconHillOA.Core.deps.json
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/bin/Debug/net6.0/BeaconHillOA.Core.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/bin/Debug/net6.0/BeaconHillOA.Core.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.csproj.AssemblyReference.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.AssemblyInfoInputs.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.AssemblyInfo.cs
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.csproj.CoreCompileInputs.cache
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/refint/BeaconHillOA.Core.dll
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/BeaconHillOA.Core.pdb
+/Users/shiyunliu/Desktop/Project/BeaconHillOA/BeaconHillOA.Core/obj/Debug/net6.0/ref/BeaconHillOA.Core.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\bin\Debug\net6.0\BeaconHillOA.Core.deps.json
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\bin\Debug\net6.0\BeaconHillOA.Core.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\bin\Debug\net6.0\BeaconHillOA.Core.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.csproj.AssemblyReference.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.AssemblyInfoInputs.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.AssemblyInfo.cs
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\refint\BeaconHillOA.Core.dll
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\BeaconHillOA.Core.pdb
+C:\Users\Boyuan Sun\Downloads\Antra\Solutions\BeaconHillOA\BeaconHillOA\BeaconHillOA.Core\obj\Debug\net6.0\ref\BeaconHillOA.Core.dll
